@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "I'm Emily. If you know, you know."
 
 # social
 social:
@@ -30,19 +30,17 @@ what_i_do:
   title: "What I Do"
   enable: true
   item:
-  - title: "Content Writing"
+  - title: "Travel"
     icon: "las la-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+    description: "I like to go places."
     
-  - title: "Photography"
-    icon: "las la-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
+  # - title: "Photography"
+  #   icon: "las la-camera"
+  #   description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
     
-  - title: "Web Research"
-    icon: "lar la-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
+  # - title: "Web Research"
+  #   icon: "lar la-snowflake"
+  #   description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+<!-- "What I Do" is too vague of a question to give any real depth into who I am. Read my posts and you'll figure out your own idea of of who I am. -->
