@@ -12,4 +12,4 @@ It's been a week since I've been in Singapore now. For the first weekend it was 
 
 
 
-On Sunday we visited Gardens by the Bay and saw the decorations around the Supertree Grove. There was a drone show on Sunday evening and it was so crowded. It reminded me of New York in a way. It was still very cool to see one.
+On Sunday we visited Gardens by the Bay and saw the decorations around the SuperTree Grove. There was a drone show on Sunday evening and it was so crowded. It reminded me of New York in a way. It was still very cool to see one.
