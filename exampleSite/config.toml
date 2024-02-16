@@ -67,10 +67,10 @@ h5 = "18px"
 h6 = "16px"
 white = "#ffffff"
 black = "#000000"
-dark = "#152035"
+dark = "#5b8fd8"
 gray = "#747577"
 light = "#FAFAFA"
-color_primary = "#5b8fd8"
+color_primary = "#cf2069"
 
 #################### default parameters ################################
 [params]
