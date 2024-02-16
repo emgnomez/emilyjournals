@@ -127,10 +127,10 @@ name = "Tags"
 url = "tags/"
 weight = 2
 
-[[menu.main]]
-name = "Categories"
-url = "categories/"
-weight = 2
+#[[menu.main]]#
+#name = "Categories"#
+#url = "categories/"#
+#weight = 2#
 
 ############################# Footer Menu ########################
 [[menu.footer]]
