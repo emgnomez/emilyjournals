@@ -70,7 +70,7 @@ black = "#000000"
 dark = "#152035"
 gray = "#747577"
 light = "#FAFAFA"
-color_primary = "#01AD9F"
+color_primary = "#5b8fd8"
 
 #################### default parameters ################################
 [params]
@@ -103,10 +103,10 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 # Subscription
 [params.subscription]
 enable = true
-# mailchimp subsciption
+# mailchimp subscription
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
-title = "Subscribe for our monthly newsletter."
+title = "Emily's blog post updates."
 input_placeholder = "Enter your email"
 
 # cookies
@@ -133,9 +133,14 @@ weight = 2
 
 ############################# Footer Menu ########################
 [[menu.footer]]
-name = "About"
-url = "about/"
-weight = 1
+name = "Tags"
+url = "tags/"
+weight = 2
+
+[[menu.footer]]
+name = "Categories"
+url = "categories/"
+weight = 2
 
 
 # Social Icons
