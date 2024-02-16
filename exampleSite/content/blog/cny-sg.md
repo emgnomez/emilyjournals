@@ -1,9 +1,9 @@
 ---
 title: "Chinese New Year in Singapore"
-image: "images/post/07.jpg"
+image: "images/post/cny-sg/20240210_191337.jpg"
 date: 2024-02-16T18:19:00+06:00
 author: "Emily Gomez"
-tags: ["Travel"]
+tags: ["Travel", "Singapore"]
 draft: false
 ---
 
