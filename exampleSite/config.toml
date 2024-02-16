@@ -108,7 +108,7 @@ enable = true
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
 title = "Emily's blog post updates."
-input_placeholder = "Enter your email"
+input_placeholder = "I don't have this setup, so please don't enter your email yet!"
 
 # cookies
 [params.cookies]
