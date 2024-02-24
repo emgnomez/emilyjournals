@@ -14,3 +14,8 @@ draft: false
 ---
 
 I'm a world traveler as my dad likes to say.
+
+I look forward to sharing more adventures!!
+
+###### I know this profile picture is too extra for a basic blog, but I'm using it regardless :grimacing:
+
