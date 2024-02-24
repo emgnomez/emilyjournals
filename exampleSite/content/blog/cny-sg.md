@@ -19,6 +19,15 @@ It's been a week since I've been in Singapore now. For the first weekend it was 
 {{< image src="images/post/cny-sg/rotated_cny_image.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" >}}
 
 
+{{< image src="images/post/cny-sg/rotated_cny_image.png" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" >}}
+
+
+
+{{< image src="images/post/cny-sg/rotated_cny_image.png" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" title="image title" >}}
+
+
+{{< image src="images/post/cny-sg/rotated_cny_image.png" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" width="500px" title="image title" >}}
+
 
 <!-- 
 {{< image src="images/post/cny-sg/20240210_190231.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" >}} | {{< image src="images/post/cny-sg/20240210_190231.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" >}}  -->
