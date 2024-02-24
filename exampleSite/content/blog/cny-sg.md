@@ -11,11 +11,7 @@ draft: false
 It's been a week since I've been in Singapore now. For the first weekend it was Chinese New Year here so there were a lot of shops closed and small events happening all through out the country. We went to a few Hindu Temples on Saturday as well as the Chinatown area. Since it is the year of the dragon, there are a lot of dragon popups around the city!
 
 
-{{< image src="images/post/cny-sg/rotated_cny_image.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" style="transform: none !important" title="image title" position="center" >}}
-
-
-
-{{< image src="images/post/cny-sg/20240210_190231_resized.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title"  position="center" >}}
+{{< image src="images/post/cny-sg/20240210_190231_resized.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" position="center" >}}
 
 
 
