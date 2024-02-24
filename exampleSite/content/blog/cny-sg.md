@@ -14,6 +14,9 @@ It's been a week since I've been in Singapore now. For the first weekend it was 
 
 {{< image src="images/post/cny-sg/20240210_190231.jpg" caption="This is Image Caption" alt="alter-text" command="fit" option="q95" class="img-fluid" title="image title" >}}
 
+<img loading="lazy" class="img-fluid rounded mb-5" src="images/post/cny-sg/20240210_190231.jpg">
+
+
 
 On Sunday we visited Gardens by the Bay and saw the decorations around the SuperTree Grove. There was a drone show on Sunday evening and it was so crowded - it felt like everyone from the city came to it. We walked around and sat by the water from daylight to sunset that day. 
 
