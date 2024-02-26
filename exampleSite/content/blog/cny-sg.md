@@ -8,7 +8,7 @@ draft: false
 ---
 
 ### Chinese New Year in Singapore
-It's been a week since I've been in Singapore now. For the first weekend it was Chinese New Year here so there were a lot of shops closed and small events happening all through out the country. We went to a few Hindu Temples on Saturday as well as the Chinatown area. The buddhist temple was decorated with lanterns and many cute popups! Since it is the year of the dragon, there are a lot of dragon popups scattered through out the city.
+For my first weekend in Singapore, it was Chinese New Year here so there were a lot of shops closed and small events happening all through out the country. We went to a few Hindu Temples on Saturday as well as the Chinatown area. The Buddhist temple was decorated with lanterns and many cute popups! Since it is the year of the dragon, there are a lot of dragon popups scattered through out the city.
 
 {{< image src="images/post/cny-sg/20240210_190138.jpg" caption="Sri Mariamman Hindu Temple in Chinatown" alt="Sri Mariamman Hindu Temple in Chinatown" command="fit" option="q95" class="img-fluid center-image" title="Sri Mariamman Hindu Temple in Chinatown" >}}
 
