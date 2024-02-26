@@ -16,7 +16,9 @@ For my first weekend in Singapore, it was Chinese New Year here so there were a 
 
 On Sunday we visited Gardens by the Bay and saw the decorations around the SuperTree Grove. There was a drone show on Sunday evening and it was so crowded - it felt like everyone from the city came to it. We walked around and sat by the water from daylight to sunset that day.
 
-{{< image src="images/post/cny-sg/20240210_190231.jpg" caption="Wedding Car Outside of Temple" alt="Wedding Car Outside of Temple" command="fit" option="q95" class="img-fluid center-image" title="Wedding Car Outside of Temple" >}}
+{{< youtube GO3x6rdQkqc >}}
+
+{{< image src="images/post/cny-sg/photo_16_2024-02-24_18-38-11.jpg" caption="Wedding Car Outside of Temple" alt="Wedding Car Outside of Temple" command="fit" option="q95" class="img-fluid center-image" title="Wedding Car Outside of Temple" >}}
 
 
 
